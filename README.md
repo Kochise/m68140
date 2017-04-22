@@ -30,7 +30,7 @@ Through the 80s, 90s and 00s, the Motorola processors evolved from a 16/32 bits 
 
 - Generation 5, full 64 bits and RISC architecture 
 
-1999 : 68080 - new core based on the unreleased 88600 serie, 1 GHz reached<br>
+1999 : 68080 - new core based on the unreleased 88160 RISC, 1 GHz reached<br>
 2001 : 68090 - added VLIW ISA, virtualization, improved low power modes<br>
 
 - Generation 6, multi-cores and variable symmetric multi-processing 
