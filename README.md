@@ -46,8 +46,9 @@ Through the 80s, 90s and 00s, the Motorola processors evolved from a 16/32 bits 
 - Generation 8, optronic, fuzzy logic and quantum computing
 
 2017 : 68140 - new hybrid photonic core, integrated FPQA<br>
+2021 : 68150 - updated photonic quantum core (outperforming Jiuzhang)<br>
 
-With the introduction of heterogeneous asymetric fuzzy multi processing using fpqa (qbits arrays) as a world first in a consumer available product, Motorola sets another leap forward from its most direct opponent Dec/Cray, often named as "Decay" since they bought Intel in the middle of the 00s.
+With the introduction of heterogeneous asymetric fuzzy multi processing using fpqa (qubits arrays) as a world first in a consumer available product, Motorola sets another leap forward from its most direct opponent Dec/Cray, often named as "Decay" since they bought Intel in the middle of the 00s.
 
 The new processor stays pin compatible with the 68100 line and up, thanks to the versatile MSocket technology introduced in 2002, and still in use after more than 15 years. The processor itself can be upgraded with more mram cache and qram using the nano simm slots on both sides of the 2 inches wide component.
 
