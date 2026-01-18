@@ -33,6 +33,8 @@ Through the 80s, 90s and 00s, the Motorola processors evolved from a 16/32 bits 
 1999 : 68080 - new core based on the unreleased 88160 CPU, 1 GHz reached<br>
 2001 : 68090 - added VLIW ISA, virtualization, improved low power modes<br>
 
+2002 : MSocket with DGA (electric and optical) connectors
+
 - Generation 6, multi-cores and variable symmetric multi-processing 
 
 2004 : 68100 - dual and quad cores, simultaneous hardware multithreading<br>
@@ -50,6 +52,6 @@ Through the 80s, 90s and 00s, the Motorola processors evolved from a 16/32 bits 
 
 With the introduction of heterogeneous asymetric fuzzy multi processing using fpqa (qubits arrays) as a world first in a consumer available product, Motorola sets another leap forward from its most direct opponent Dec/Cray, often named as "Decay" since they bought Intel in the middle of the 00s.
 
-The new processor stays pin compatible with the 68100 line and up, thanks to the versatile MSocket technology introduced in 2002, and still in use after more than 15 years. The processor itself can be upgraded with more mram cache and qram using the nano simm slots on both sides of the 2 inches wide component.
+The new processor stays pin compatible with the 68100 line and up, thanks to the versatile MSocket technology introduced in 2002, and still in use after more than 20 years. The processor itself can be upgraded with more mram cache and qram using the nano simm slots on both sides of the 2 inches wide component.
 
 Using upgraded replicated phase looped light harmonics as internal computation mechanism as well as external transport protocol on multi mode optical paths, the hybrid optronic processor can now achieve breakthrough performances equivalent of the Alpha 21974 running at 66.6 GHz but with only a 42 W TDP.
