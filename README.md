@@ -21,12 +21,12 @@ Through the 80s, 90s and 00s, the Motorola processors evolved from a 16/32 bits 
 - Generation 3, pipelined
 
 1991 : 68040 - integrated FPU, 6 stages pipeline<br>
-1993 : 68050 - canceled, merged with the 68060 project<br>
+1993 : ~~68050~~ - cancelled, merged with the 68060 project<br>
 
 - Generation 4, superscalar
 
 1994 : 68060 - superscalar, 10 stages pipeline<br>
-1996 : 68070 - added 16 bits "Thumb"-like ISA, integrated SIMD and DSP<br>
+1996 : 68070 - full hardware pipelined FPU, integrated SIMD and DSP<br>
 
 - Generation 5, full 64 bits and RISC architecture 
 
